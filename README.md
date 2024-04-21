@@ -2,9 +2,8 @@
 
 ![1_Nak1bnD0RNSwfos7S7KZuQ](https://github.com/klortiz13/Kristhia13/assets/147196544/0894f329-7508-44de-ae4c-d175b87f1172)
 
-
+## Data Structures Tutor @ UC San Diego's Computer Science Dept.
 ## Student Software Engineer @ UC San Diego's ITS Dept.
-## CSE Tutor @ UCSD (Data Structures).
 ## Information Systems Technician @ U.S. Navy Reserves.
 
 💡 I'm pursuing a Bachelor's in Computer Science @ UC San Diego.\
