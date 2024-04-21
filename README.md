@@ -1,4 +1,4 @@
-Hello, GitHub!
+Hello, GitHub! \
 ![image](https://github.com/klortiz13/Kristhia13/assets/147196544/1a974bf9-d195-468c-981a-f17991f686e9)
 
 Student Software Engineer @ UC San Diego's ITS Dept.
